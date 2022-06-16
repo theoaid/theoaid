@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi, I am Theophilus
 
-<!--
-**theoaid/theoaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/theoaid?label=Followers&logo=Github)](https://github.com/theoaid) [![Github](https://visitor-badge.laobi.icu/badge?page_id=theoaid.theoaid)](https://github.com/theoaid)
 
-Here are some ideas to get you started:
+## :earth_africa: I am a Data Scientist by trade
+ - I am quite enthusiastic about:
+  - :desktop_computer: Data
+  - :books: Reading 
+  - :seedling: Farming
+  - :mechanical_arm: Robotics
+  - :man_teacher: Teaching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## Education / Training
+-  ⌨️ Foundations of Deep Learning - Deep Learning Institute
+- 🎓 Msc. Mathematical Sciences - African Institute for Mathematical Sciences, Ghana
+- 🎓 Bsc. Ghana Communication Technology University , Ghana
+
+<br />
+
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=theoaid&count_private=true&show_icons=true&theme=blue-green">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=theoaid&count_private=true&show_icons=true&theme=blue-green" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=theoaid&hide=php&theme=blue-green">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoaid&hide=php&theme=blue-green" />
+</a>
+</div>
