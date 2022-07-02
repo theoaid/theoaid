@@ -1,14 +1,15 @@
-## Hi, I am Theophilus
+## Hi :smile: , I am Theophilus
+
+I like to explore innovative and sustainable solutions to problems. I am a good team player and always ready to learn and share.
 
 [![Github](https://img.shields.io/github/followers/theoaid?label=Followers&logo=Github)](https://github.com/theoaid) [![Github](https://visitor-badge.laobi.icu/badge?page_id=theoaid.theoaid)](https://github.com/theoaid)
 
 ## Interest
-I am quite passionate about:
-  - :desktop_computer: Data
-  - :books: Reading 
-  - :seedling: Farming
+I am insterested in projects that relates to:
+  - :desktop_computer: Data Science
+  - :globe: Climate observation 
+  - :seedling: Agriculture
   - :mechanical_arm: Robotics
-  - :man_teacher: Teaching
 
 <br />
 
