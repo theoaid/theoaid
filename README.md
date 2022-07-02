@@ -7,7 +7,7 @@ I like to explore innovative and sustainable solutions to problems. I am a good 
 ## Interest
 I am insterested in projects that relates to:
   - :desktop_computer: Data Science
-  - :globe: Climate observation 
+  - :earth_africa: Climate Observation 
   - :seedling: Agriculture
   - :mechanical_arm: Robotics
 
